@@ -116,8 +116,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 2: SSH Connection to Instance
 
-<img width="1915" height="952" alt="Screenshot 2026-05-29 200728" src="https://github.com/user-attachments/assets/77ca356a-c9d0-444e-b6a9-7a0697a0fe6a" />
-
+<img width="1256" height="530" alt="image" src="https://github.com/user-attachments/assets/e4ae5cda-2bb9-47c8-ba43-3d66a643cad5" />
 
 
 ---
@@ -132,4 +131,4 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 ## Result 
 
 This experiment provided hands-on experience with Amazon EC2 by demonstrating how to launch, connect, manage, and monitor a virtual server in AWS. It helped in understanding the concept of Infrastructure as a Service (IaaS) and how compute resources can be provisioned and controlled on demand in the cloud.
-](https://github.com/yaazhu/Blended-Labs-2025-26-Even/edit/main/Ex.%204%20Working%20with%20EBS/README.md)
+
