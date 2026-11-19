@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: Aaron I
-* **Register Number**: 212223230002
-* **Date of Submission**: 01/05/2026
+* **Name**: Yaazhini V
+* **Register Number**: 212225220124
+* **Date of Submission**: 19/11/2026
 
 ---
 
@@ -123,7 +123,8 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 3: Instance Monitoring / Status
 
-<img width="1910" height="976" alt="Screenshot 2026-05-29 202503" src="https://github.com/user-attachments/assets/19a5dbcc-120a-49b5-b9c7-e84d09af70c5" />
+<img width="1257" height="502" alt="image" src="https://github.com/user-attachments/assets/f67dd3d8-9318-4056-8b4c-85d7b362d8d3" />
+
 
 
 ---
